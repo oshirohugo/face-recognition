@@ -66,3 +66,5 @@ when you finish, disable permission to connect to your X server host:
 ```bash
 $ xhost -local:root
 ```
+## References
+All scripts are adaptions from the content explained in [https://thecodacus.com/opencv-face-recognition-python-part1/](https://thecodacus.com/opencv-face-recognition-python-part1/)
