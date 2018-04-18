@@ -2,8 +2,8 @@
 
 ## Before using the scripts
 
-You should have python 2 installed in your system and some python libraries: opencv-python 2.9.x and numpy.
-If you don't have this environment you can use docker as explained on [Build and running inside docker](#build-and-running-inside-docker)
+You should have python 2 installed in your system and some python libraries: opencv-python 2.x and numpy.
+If you don't have this environment you can use docker as explained on [Build and running inside docker](#build-and-running-inside-docker) to run the scripts. Or a dev image as explained [here](https://github.com/oshirohugo/opencv-python-dev-dockerfile)
 
 ## Using the scripts
 
